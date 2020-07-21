@@ -1,0 +1,11 @@
+#mainDiv {
+    width: 200px;
+    height: 250px;
+}
+
+button {
+    height: 50px;
+    width: 50px;
+    float: left;
+    font-weight: bold;
+}
